@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "舞",
+  "base_artist": "Guiano",
+  "createdAt": "2025-12-19T01:27:18.140736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/01_月・影・舞・華_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/02_月・影・舞・華_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/03_月・影・舞・華_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "月・影・舞・華  (Tsuki・Kage・Mai・Ka)",
+      "artist": "和楽器バンド (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/04_月・影・舞・華_(Tsuki・Kage・Mai・Ka)_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "舞 - feat. 理芽",
+      "artist": "Guiano, 理芽",
+      "has_synced": true,
+      "path": "select/05_舞_-_feat._理芽_Guiano,_理芽.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "蛇 舞",
+      "artist": "Jay Chou",
+      "has_synced": true,
+      "path": "select/06_蛇_舞_Jay_Chou.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/07_月・影・舞・華_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/08_月・影・舞・華_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/09_月・影・舞・華_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tsuki Kage Mai Ka (月・影・舞・華)",
+      "artist": "Wagakki Band（和楽器バンド）",
+      "has_synced": true,
+      "path": "select/10_Tsuki_Kage_Mai_Ka_(月・影・舞・華)_Wagakki_Band(和楽器バンド).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "舞 - feat. 理芽",
+      "artist": "Guiano",
+      "has_synced": true,
+      "path": "select/11_舞_-_feat._理芽_Guiano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "大きな愛でもてなして/中島早貴・萩原 舞 (2012神聖なるVer.)",
+      "artist": "℃-ute",
+      "has_synced": false,
+      "path": "select/12_大きな愛でもてなして_中島早貴・萩原_舞_(2012神聖なるVer.)_°C-ute.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "舞",
+      "artist": "Bobby Chen",
+      "has_synced": true,
+      "path": "select/13_舞_Bobby_Chen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "月・影・舞・華",
+      "artist": "Wagakki Band",
+      "has_synced": true,
+      "path": "select/14_月・影・舞・華_Wagakki_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "狗 仔 舞",
+      "artist": "周杰伦",
+      "has_synced": true,
+      "path": "select/15_狗_仔_舞_周杰伦.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "月・影・舞・華  (Tsuki・Kage・Mai・Ka)",
+      "artist": "和楽器バンド  (Wagakki Band)",
+      "has_synced": true,
+      "path": "select/16_月・影・舞・華_(Tsuki・Kage・Mai・Ka)_和楽器バンド_(Wagakki_Band).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "舞",
+      "artist": "陈升",
+      "has_synced": true,
+      "path": "select/17_舞_陈升.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "月.影.舞.華 (Tsuki-Kage-Mai-Ka)",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/18_月.影.舞.華_(Tsuki-Kage-Mai-Ka)_和楽器バンド.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "舞 feat.理芽",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_舞_feat.理芽_Guiano.txt"
+    }
+  ]
+}
